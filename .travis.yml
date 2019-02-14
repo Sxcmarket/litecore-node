@@ -15,7 +15,7 @@ node_js:
   - "v0.12.7"
   - "v4"
 script:
-  - npm run regtest
+#  - npm run regtest
   - npm run test
   - npm run jshint
 after_success:
